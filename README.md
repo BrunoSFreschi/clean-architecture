@@ -1,4 +1,4 @@
-# Clean Architecture Example
+# Clean Architecture
 Este projeto é um exemplo simples de como implementar Clean Architecture em uma aplicação web usando ASP.NET Core. A Clean Architecture é um padrão de design que promove a separação de preocupações, tornando o código mais modular, testável e fácil de manter.
 
 ## Estrutura do Projeto
