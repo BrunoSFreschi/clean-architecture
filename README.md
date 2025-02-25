@@ -50,4 +50,4 @@ app.Run();
 Este projeto, embora simples, é um exemplo de como os princípios da Clean Architecture podem ser aplicados mesmo em aplicações mínimas. A separação de responsabilidades, a independência de frameworks e a facilidade de manutenção são características que tornam a Clean Architecture uma escolha poderosa para projetos de qualquer tamanho.
 
 ### Nota: 
-Você chegou aqui? Parabéns! Agora, se tiver dúvidas, você já sabe quem chamar. . .
+Você chegou até aqui? Parabéns! Se tiver dúvidas, você já sabe quem chamar. . .
